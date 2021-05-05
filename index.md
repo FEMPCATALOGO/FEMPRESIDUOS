@@ -28,7 +28,7 @@ classes: wide
   
 |Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-|   |   |    |   |    |    |    |     |     |       |
+| Medio Ambiente  | Inexistente  |  *[Repositorio](https://github.com/opencitydata/vocab-medio-ambiente-residuos)*  |  *[Generar Issues](https://github.com/opencitydata/vocab-medio-ambiente-residuos/issues)* |  Información sobre los diferentes tipos de residuos y las formas en las que se procede a su recogida, así como las cantidades recogidas de cada uno de ellos durante un período de tiempo determinado.   |    |    |     |     |       |
  
   
 
